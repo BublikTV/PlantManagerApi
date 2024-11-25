@@ -15,15 +15,3 @@ Projekt aplikacji RestAPI z funkcjami CRUD do obsługi bazy danych MongoDB. Apli
 
 ## Konfiguracja bd:
     `mongod`
-
-## Struktura
-PlantManagerAPI/
-├── models/
-│   └── plant.js        # Model Mongoose dla roślin
-├── routes/
-│   └── plantRoutes.js  # Trasy API
-├── node_modules/       # Zależności
-├── package.json        # Konfiguracja projektu
-├── .gitignore          # Pliki ignorowane przez Git
-├── index.js            # Główna aplikacja serwera
-└── README.md           # Dokumentacja projektu
