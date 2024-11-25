@@ -10,8 +10,8 @@ Projekt aplikacji RestAPI z funkcjami CRUD do obsługi bazy danych MongoDB. Apli
 - Aktualizacja rekordu w bazie danych (PUT)
 
 ## Instalacja:
-1. `npm install`
-2. npm start
+  1. `npm install`
+  2. `npm start`
 
 ## Konfiguracja bd:
     `mongod`
